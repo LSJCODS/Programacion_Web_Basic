@@ -1,3 +1,5 @@
+let ataqueJugador
+
 function iniciarJuego() {
 
     //Asigna a la variable el valor seleccionado con el ID
@@ -6,7 +8,6 @@ function iniciarJuego() {
     botonMascotaJugador.addEventListener("click", seleccionarMascotaJugador)
 
 }
-
 
 //Genera un Mensjae informando la seleccion de mascota
 
